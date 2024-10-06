@@ -1,0 +1,14 @@
+D:\source\Bismillah\Tolib\Kutubxona\bin\Debug\net7.0\Kutubxona.exe
+D:\source\Bismillah\Tolib\Kutubxona\bin\Debug\net7.0\Kutubxona.deps.json
+D:\source\Bismillah\Tolib\Kutubxona\bin\Debug\net7.0\Kutubxona.runtimeconfig.json
+D:\source\Bismillah\Tolib\Kutubxona\bin\Debug\net7.0\Kutubxona.dll
+D:\source\Bismillah\Tolib\Kutubxona\bin\Debug\net7.0\Kutubxona.pdb
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\Kutubxona.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\Kutubxona.AssemblyInfoInputs.cache
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\Kutubxona.AssemblyInfo.cs
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\Kutubxona.csproj.CoreCompileInputs.cache
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\Kutubxona.dll
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\refint\Kutubxona.dll
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\Kutubxona.pdb
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\Kutubxona.genruntimeconfig.cache
+D:\source\Bismillah\Tolib\Kutubxona\obj\Debug\net7.0\ref\Kutubxona.dll
